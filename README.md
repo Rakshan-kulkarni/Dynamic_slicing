@@ -16,7 +16,7 @@ The simulation models multiple clients connecting to base stations and shows how
 
 1. Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/dynamic-network-slicing-simulation.git
+git clone https://github.com/Rakshan-kulkarni/dynamic-network-slicing-simulation.git
 
 2. Install requirements
 
